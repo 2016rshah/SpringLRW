@@ -1,0 +1,73 @@
+evidence
+	defense assigning memo (R. at 1)
+
+	stages of criminal prosecution (R. at 3)
+
+	prosecution assigning memo (R. at 5)
+
+	prosecution opening statement (R. at 12)
+
+	defense opening statement (R. at 15)
+
+	Agent Paul Lopez (prosecution witness) testimony
+		direct exam (R. at 19)
+		cross exam (R. at 30)
+
+	Jason Jacobs (prosecution witness) testimony
+		direct exam (R. at 37)
+		cross exam (R. at 42)
+
+	motion to acquit for entrapment FRCrP 29 (R. at 47)
+
+	Archibald Hark (defense witness) testimony
+		direct exam (R. at 49)
+		cross exam (R. at 57)
+		redirect (R. at 53)
+
+	stipulations (R. at 65)
+
+	jury instructions omitted (R. at 66)
+
+	prosecution closing statement (R. at 67)
+
+	defense closing statement (R. at 68)
+
+	judgement (R. at 72)
+
+	motion for JNOV (R. at 74)
+
+	motion for new trial on newly discovered evidence FRCrP 33 (R. at 77)
+
+	exhibits (R. at 81)
+		P-1 map (R. at 82) 
+		P-2 picture of drugs (R. at 83)
+
+	Sophia Brooks affidavit (R. at 84)
+
+	Merry Boak affidiavit (R. at 87)
+
+	Rafael Diaz (R. at 90)
+		doctor's affidavit
+
+	ruling that denies both motions (R. at 92)
+		entrapment as matter of law
+			five-factor test for entrapment, United States v. Jones, 231 F.3d 508, 518 (9th Cir. 2000)
+			induced satisfiable (R. at 93)
+				"the defendant may very well have been induced by the government to commit this crime" (R. at 93)
+			predisposed satisfiable (R. at 93)
+				"reasonable juror could have found that the defendant was predisposed to commit this crime"
+					history of dealing drugs
+					motivated by making money
+		new trial
+			five-step test provided in United States v. Harrington, 410 F.3d 598, 601 (9th Cir. 2005)
+				evidence newly discovered satisfied (R. at 93)
+				no lack of due diligence satisfied (R. at 93)
+				materiality of evidence NOT satisfied (R. at 94)
+			"While troubling, the doctor’s affidavit does not convince me either. I am acutely concerned about the cost of a new trial, and I do not believe that this evidence would have changed the jury’s mind." (R. at 94)
+
+	sentencing hearing (R. at 97)
+
+	judgement and sentence (R. at 99)
+
+	notice of appeal (R. at 100)
+

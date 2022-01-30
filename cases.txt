@@ -1,0 +1,21 @@
+entrapment as matter of law
+	United States v. Jones, 231 F.3d 508, 518 (9th Cir. 2000)
+		five-factor test for entrapment
+	
+new trial
+	United States v. Harrington, 410 F.3d 598 (9th Cir. 2005)
+		five-step test to prevail on Rule 33 motion
+			"(1) the evidence must be newly discovered; 
+			(2) the failure to discover the evidence sooner must not be the result of a lack of diligence on the defendant's part; 
+			(3) the evidence must be material to the issues at trial; 
+			(4) the evidence must be neither cumulative nor merely impeaching; and 
+			(5) the evidence must indicate that a new trial would probably result in acquittal." (601)
+
+	United States v. Kulczyk, 931 F.2d 542 (9th Cir. 1991)		
+		cited in Harrington (601) for five part test (548)
+
+	United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
+		cited in Harrington (601) to say "inconsistencies therefore are not material to the issues at trial" (825)
+
+	United States v. Kenny, 645 F.2d 1323 (9th Cir. 1981)
+		cited in Harrington (601) to say "Even if the new evidence could be considered marginally material, Harrington cannot show that a new trial would probably result in acquittal" (1344)
