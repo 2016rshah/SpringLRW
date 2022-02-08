@@ -1,21 +1,114 @@
 entrapment as matter of law
 	United States v. Jones, 231 F.3d 508, 518 (9th Cir. 2000)
 		five-factor test for entrapment
-	
+
+	Sherman v. United States, 356 U.S. 369 (1958)
+		"The function of law enforcement is the prevention of crime and the apprehension of criminals. Manifestly, that function does not include the manufacturing of crime." (372)
+
+	Sorrells v. United States, 287 U.S. 435 (1932)
+		quoted in Sherman for establishing entrapment defense
+
+
+	United States v. Jones, 231 F.3d 508 (9th Cir. 2000)
+		"Generally, whether a defendant was entrapped is a question for the jury.4 Id. at 1430 (citing Sherman v. United States, 356 U.S. 369, 377, 78 S.Ct. 819, 2 L.Ed.2d 848 (1958)). Where, as here, the entrapment defense is submitted to the jury, an appellate court should not disturb the jury's finding unless, viewing the evidence in the light most favorable to the government, no reasonable jury could have concluded that the government had disproved either of the elements of the entrapment defense. United States v. Poehlman, 217 F.3d 692, 698 (9th Cir.2000). In this case, there was sufficient evidence for a reasonable jury to find either that Appellant was not induced by government agents or that he was predisposed to commit the crimes charged.5" (516)
+
+		"“Inducement has been defined as ‘repeated and persistent solicitation’ or ‘persuasion’ which overcomes the defendant's reluctance. Mere suggestions or the offering of an opportunity to commit a crime is not conduct amounting to inducement.” United States v. Simas, 937 F.2d 459, 462 (9th Cir.1991) (citations omitted)." (517)
+
+	United States v. Tucker, 133 F.3d 1208 (9th Cir.1998)
+		quoted in Jones
+			five factors for predisposition
+			“Although none of these five factors controls, the most important is the defendant's reluctance to engage in criminal activity.” (1217)
+			
 new trial
-	United States v. Harrington, 410 F.3d 598 (9th Cir. 2005)
-		five-step test to prevail on Rule 33 motion
-			"(1) the evidence must be newly discovered; 
-			(2) the failure to discover the evidence sooner must not be the result of a lack of diligence on the defendant's part; 
-			(3) the evidence must be material to the issues at trial; 
-			(4) the evidence must be neither cumulative nor merely impeaching; and 
-			(5) the evidence must indicate that a new trial would probably result in acquittal." (601)
+	westlaw keys
+		 West Key Number System > 110 CRIMINAL LAW > XXI. MOTIONS FOR NEW TRIAL, k905-k965 > 937 Newly discovered evidence
 
-	United States v. Kulczyk, 931 F.2d 542 (9th Cir. 1991)		
-		cited in Harrington (601) for five part test (548)
+	secondary sources
+		44 A.L.R. Fed. 13 (Originally published in 1979)
+			"What constitutes "newly discovered evidence" within meaning of Rule 33 of Federal Rules of Criminal Procedure relating to motions for new trial"
 
-	United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
-		cited in Harrington (601) to say "inconsistencies therefore are not material to the issues at trial" (825)
+			This annotation focuses on the first two of the above requirements plus the question whether the new material is "evidence" for the purposes of granting a new trial.
+				(1) has been discovered since the trial, (2) could not have been discovered before the trial by the exercise of due diligence, (3) is material to the issue, (4) is not merely cumulative or impeaching, and (5) will probably change the result if a new trial is granted.
 
-	United States v. Kenny, 645 F.2d 1323 (9th Cir. 1981)
-		cited in Harrington (601) to say "Even if the new evidence could be considered marginally material, Harrington cannot show that a new trial would probably result in acquittal" (1344)
+		27 A.L.R. 1091 (Originally published in 1923)
+			"Which court has jurisdiction to entertain motion for new trial on ground of newly discovered evidence pending appeal or after affirmance of conviction"
+
+		§ 33:1. Generally, 5 Orfield's Criminal Procedure Under the Federal Rules § 33:1
+
+		§ 584 Grounds—Newly Discovered Evidence—The Berry Test, 3 Fed. Prac. & Proc. Crim. § 584 (4th ed.)
+			"The newly discovered evidence must be material. A motion for a new trial will be denied if materiality of the evidence is not shown,16 or if the evidence would be inadmissible at trial,17 or if it goes only to a remote collateral issue,18 or if it is cumulative of evidence that was presented at the trial.19"
+
+	9th Circuit
+		rule 33 motion standard
+			* United States v. Harrington, 410 F.3d 598 (9th Cir. 2005)
+				five-step test to prevail on Rule 33 motion
+					"(1) the evidence must be newly discovered; 
+					(2) the failure to discover the evidence sooner must not be the result of a lack of diligence on the defendant's part; 
+					(3) the evidence must be material to the issues at trial; 
+					(4) the evidence must be neither cumulative nor merely impeaching; and 
+					(5) the evidence must indicate that a new trial would probably result in acquittal." (601)
+
+			United States v. Kulczyk, 931 F.2d 542 (9th Cir. 1991)		
+				cited in Harrington (601) for five part test (548)
+
+			United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
+				cited in Harrington (601) to say 
+					"impeach a portion of the officers' testimony regarding one instance of surveillance, but do not render their testimony wholly incredible" (825)
+					"inconsistencies therefore are not material to the issues at trial" (825)
+
+			United States v. Kenny, 645 F.2d 1323 (9th Cir. 1981), cert. denied, 452 U.S. 920 (1981)
+				cited in Harrington (601) to say "Even if the new evidence could be considered marginally material, Harrington cannot show that a new trial would probably result in acquittal" (1344)
+				cited in Walgren (1427) to say Kenny is the standard for when evidence is material (1343)
+
+			United States v. Walgren, 885 F.2d 1417 (9th Cir. 1989)
+				lower standard when government misconduct than when merely new evidence is merely discovered 
+					"Walgren based his motion for a new trial on three grounds: 1) the government made knowing use of perjured testimony; 2) the government failed to disclose evidence favorable to him in response to his discovery requests; and 3) even if the government did not act improperly, the newly-discovered evidence entitles him to a new trial. The defendant carries a different burden in order to establish each of these bases for a new trial." (1427)
+				cited in Davis (825)
+					material under Walgreen means must refute an essential element of the government's case
+
+			Lindsey v. United States, 368 F.2d 633 (9th Cir. 1966)
+				no abuse of discretion in refusing to grant new trial
+					"repudiated affidavit of recantation of trial testimony did not meet requirement that newly discovered evidence be not merely impeaching" (synopsis)
+				cited in Davis (825)
+
+		standard of review
+			* United States v. Hinkson, 585 F.3d 1247 (9th Cir. 2009)
+				apply abuse of discretion standard for rule 33 with detailed explanation
+					"We review a district court's order denying a motion for a new trial made on the ground of newly discovered evidence for abuse of discretion. United States v. Reyes–Alvarado, 963 F.2d 1184, 1188 (9th Cir.1992). We invoke that standard of review as we have hundreds of times before, but this case forces us to step back and consider precisely what “abuse of discretion” means, in the context of a trial court's factual findings, as applied to legal rules." (1259)
+
+				abuse of discretion standard is two part test
+					did trial court identify correct legal rule
+					was trial court clearly erroneous when making a decision that was any of the following three
+						illogical
+						implausible
+						without support in inferences that may be drawn from the facts in the record
+
+					"Accordingly, we hold that when we review for abuse of discretion a district court's denial of a motion for a new trial, we first look to whether the trial court identified and applied the correct legal rule to the relief requested. Second, we look to whether the trial court's resolution of the motion resulted from a factual finding that was illogical, implausible, or without support in inferences that may be drawn from the facts in the record. In other words, our abuse of discretion test means that we do not automatically affirm a district court's factual finding if we decide it is “permissible,” and we do not automatically reverse a district court's factual finding if we decide a “mistake has been committed.” Rather, in either case, we will affirm a district court's factual finding unless that finding is illogical, implausible, or without support in inferences that may be drawn from the record." (1263, footnotes omitted)
+
+				harrington test is essentially factual
+					"because the Harrington test is essentially factual, requiring considerations that are “founded on the application of the fact-finding tribunal's experience with the mainsprings of human conduct,” rather than requiring “consideration of abstract legal principles,” McConney, 728 F.2d at 1202, we look to whether the district court's findings of fact, and its application of those findings of fact to the Harrington factors, were illogical, implausible, or without support in inferences that may be drawn from facts in the record." (1264)
+
+				dissent says elements (3), (4), and (5) of harrington test are duplicative
+					"Although we ordinarily state the test as comprising five requirements, we have recognized that requirements (3), (4), and (5) are duplicative. That is, newly discovered evidence is “material” when the result of the newly discovered evidence is that “a new trial would probably result in acquittal,” a condition that is not usually met when the newly discovered evidence is “cumulative [ ]or merely impeaching.” See, e.g., United States v. Krasny, 607 F.2d 840, 845 n. 3 (9th Cir.1979) (noting that the materiality and probability requirements “are really two means of measuring the same thing”); United States v. Davila, 428 F.2d 465, 466 (9th Cir.1970) (per curiam) (noting that newly discovered impeachment evidence supports a new trial if “it is likely that the jury would have reached a different result” in light of the evidence); see also Wright et al., supra, § 557, at 552."
+
+
+	SCOTUS
+		standard of review
+			Cooter & Gell v. Hartmarx Corp., 496 U.S. 384 (1990)
+				abuse of discretion = clearly erroneous				
+
+				“Where there are two permissible views of the evidence, the factfinder's choice between them cannot be clearly erroneous.” (400–401)
+
+				cited in Hinkson (1259) for abuse of discretion standard explanation 
+					"The Supreme Court explained the meaning of the abuse of discretion standard in Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, 110 S.Ct. 2447, 110 L.Ed.2d 359 (1990), where the court stated, “A district court would necessarily abuse its discretion if it based its ruling on an erroneous view of the law or a clearly erroneous assessment of the evidence.” Id. at 405, 110 S.Ct. 2447. In other words, the Court defined abuse of discretion review of factual findings in terms of “clearly erroneous” review, holding that “[w]hen an appellate court reviews a district court's factual findings, the abuse-of-discretion and clearly erroneous standards are indistinguishable: A court of appeals would be justified in concluding that a district court had abused its discretion in making a factual finding only if the finding were clearly erroneous.” Id. at 400–01, 110 S.Ct. 2447." (Hinkson 1259)
+
+
+			Easley v. Cromartie, 532 U.S. 234, 242, 121 S.Ct. 1452, 149 L.Ed.2d 430 (2001) 
+				clear error = on the entire evidence, is the reviewing court left with the definite and firm conviction that a mistake has been committed (242)
+				cited in Hinkson (1260)
+
+			 United States v. U.S. Gypsum Co., 333 U.S. 364 (1948)
+			 	cited in Hinkson (1260) for less deferential abuse of discretion standard (395)
+
+			 United States v. Yellow Cab Co., 338 U.S. 338 (1949)
+				cited in Hinkson (1260) for more deferential abuse of discretion standard (342)
