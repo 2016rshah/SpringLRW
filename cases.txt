@@ -71,6 +71,92 @@ new trial
 					"repudiated affidavit of recantation of trial testimony did not meet requirement that newly discovered evidence be not merely impeaching" (synopsis)
 				cited in Davis (825)
 
+		"newly discovered"
+			Home > West Key Number System > 110 CRIMINAL LAW > XXI. MOTIONS FOR NEW TRIAL, k905-k965 > 937 Newly discovered evidence > 938 —In general > (2) What constitutes newly discovered evidence in general
+
+			* United States v. Reyes-Alvarado, 963 F.2d 1184 (9th Cir. 1992), as amended (June 15, 1992)
+				motion denied
+				Codefendants' testimony exculpating defendant was not newly discovered evidence which entitled defendant to new trial; there was no evidence that codefendants were forced to refrain from testifying during defendant's trial but, rather, it was probably prudent for them to decline to testify and now after they had been sentenced, it was safe for them to testify. (headnote)
+
+				"It would encourage perjury to allow a new trial once co-defendants have determined that testifying is no longer harmful to themselves. They may say whatever they think might help their co-defendant, even to the point of pinning all the guilt on themselves, knowing they are safe from retrial. Such testimony would be untrustworthy and should not be encouraged. We find that the judge did not abuse his discretion in refusing to grant a new trial on the basis of newly discovered evidence." (1188)
+
+				we can contrast with the restraints on Dr. Diaz because he was threatened to not come forward
+					"Agent Lopez told me that if I did not cooperate with his investigation, he would do everything he could to have my license to prescribe controlled substances revoked. He also threatened to flood my office with subpoenas and federal officers as part of a lengthy investigation. He also told me that if I disclosed our conversation to anyone, I would be charged with obstruction of justice." R. at 90.
+
+			United States v. McKinney, 952 F.2d 333,  (9th Cir. 1991)
+				motion denied 
+				“We have long held that, in general, a defendant seeking a new trial on the basis of newly discovered evidence must show that the evidence relied on is, in fact, newly discovered, i.e., discovered after the trial.”) (335 internal quotation marks and citations omitted)
+
+				our evidence was discovered after trial because the doctor only decided to break their intentional silence *after reading about the trial*
+
+		diligence
+			Home > West Key Number System > 110 CRIMINAL LAW > XXI. MOTIONS FOR NEW TRIAL, k905-k965 > 937 Newly discovered evidence > 939 Diligence > (1) In general
+
+			United States v. Brugnara, 856 F.3d 1198 (9th Cir. 2017)
+				motion denied
+				"It is not uncommon that a party fails to act diligently when he does not take advantage of reasonably available means to obtain known or suspected evidence before or at least during trial." (1206)
+
+			United States v. Smith, 650 F. App'x 458 (9th Cir. 2016)
+				motion denied
+				unpublished
+				"Smith's supposedly new evidence was that Smith had not confessed to Lewis, but instead Lewis had learned facts about Smith's case from reading Smith's discovery. Even taking *461 this evidence as true, Smith knew he denied confessing to Lewis. He suspected at trial that Lewis had gotten information about his case from reading his discovery. He knew that he had given his discovery to a porter to give to a jailhouse lawyer, whom he had never met. Smith should have investigated the porter and jailhouse lawyer before trial, and his failure to do so was a sufficient basis for denying the motion for a new trial."
+					we can contrast because we had no knowledge that the loss of insurance coverage was fraudulent
+
+		material
+			Home > West Key Number System > 110 CRIMINAL LAW > XXI. MOTIONS FOR NEW TRIAL, k905-k965 > 937 Newly discovered evidence > 940 Materiality
+
+			United States v. George, 420 F.3d 991 (9th Cir. 2005)
+				motion denied
+				"We acknowledge that, had the newly acquired receivership returns been presented to Antonini at trial, Antonini would have been forced to admit that his firm prepared them. Still, this concession would not have bolstered George's claim that Antonini advised George not to declare receiver fees on his personal tax returns. It would have only established a collateral point-who prepared the receiverships' returns." (1001)
+					more than a mere collateral point
+
+			United States v. Norman, 402 F.2d 73 (9th Cir. 1968)
+				motion denied
+				"In any event, the telephone listing was immaterial under the circumstances of this case. There was no dispute about the fact that defendant resided at 955-A Oak Street, San Francisco, where the three transactions took place. Government agents witnessed White enter and leave that residence on three occasions. They also saw defendant leave that dwelling at the time of the second transaction, and enter it at the time of the third transaction. Assuming that the telephone was listed in the name of someone else, that fact would not have undermined the Government's case in the least. Moreover, defendant must have known at the time of the trial whether the telephone was listed in his name during the period in question. It is safe to assume that if he then thought it was a material matter he would have produced the contradictory evidence at the trial." (78)
+
+			Henry v. United States, 12 F.2d 670 (9th Cir. 1926)
+				motion denied
+				"It was further shown that the relations between Cox and the plaintiff in error, and more especially between Cox and the father of the plaintiff in error, were unfriendly, and that Cox had made threats against the plaintiff in error and his father. Cox was not a witness at the trial, and, so far as the record discloses, had no connection with the prosecution. Under such circumstances, the proffered testimony was entirely too remote." (671)
+					Agent Lopez was a witness at trial, and had a clear connection with the prosecution. Thus the proferred testimony is not too remote to be considered material. 
+
+		cumulative/merely impeaching
+
+
+		probably result in acquittal
+
+
+		general
+			Evalt v. United States, 382 F.2d 424 (9th Cir. 1967)
+				motion denied because dream about act of god supporting insanity defense is cumulative of the insanity defense that was raised in the lower court. furthermore, the dream was after the incident, so it would not help establish insanity defense at time of incident
+					the "furthermore" clause can help us distinguish
+
+			United States v. Eldred, 588 F.2d 746 (9th Cir. 1978)
+				motion denied because evidence referenced in the affidavits was known to counsel at the time it occurred (752-53)
+
+			Butler v. United States, 310 F.2d 214 (9th Cir. 1962)
+				motion denied
+
+			Fiorito v. United States, 265 F.2d 658 (9th Cir. 1958)
+				motion denied
+
+			United States v. Escobar, 68 F. App'x 836 (9th Cir. 2003)
+				motion GRANTED !!!
+				but unpublished and no details about the case 
+				LOL rip
+
+			Wolcher v. United States, 233 F.2d 748 (9th Cir. 1956)
+				motion denied
+
+			United States v. Wilkes, 744 F.3d 1101 (9th Cir. 2014)
+				motion denied
+
+			Smith v. Davis, 953 F.3d 582 (9th Cir. 2020), cert. denied, 141 S. Ct. 878
+				not actually a new trial motion
+				but a rehearing en banc that mentions Harrington test of diligence in a footnote
+				“[t]he diligence required for equitable tolling purposes is ‘reasonable diligence,’ not ‘maximum feasible diligence.’”
+					not super relevant, but might be a fun thing to throw in somewhere along with reference that footnote equates diligence in equitable tolling purposes and motions for a new trial
+
+
 		standard of review
 			* United States v. Hinkson, 585 F.3d 1247 (9th Cir. 2009)
 				apply abuse of discretion standard for rule 33 with detailed explanation
@@ -93,6 +179,51 @@ new trial
 
 
 	SCOTUS
+		motion for new trial on basis of newly discovered evidence
+			United States v. Johnson, 327 U.S. 106 (1946)
+				found through WestLaw Keys
+
+				Neither the Supreme Court nor the Circuit Court of Appeals may review orders granting or denying motion for a new trial when such review is sought on the alleged ground that the trial court made erroneous findings of fact. (headnote)
+
+				Where the appellate court might intervene when the findings of fact are wholly unsupported by the evidence, it should never do so where it does not clearly appear that the findings are not supported by any evidence. (headnote)
+
+				"[the privilege of a motion for a new trial] might lend itself for use as a method of delaying enforcement of just sentences. Especially is this true where delay is extended by appeals lacking in merit. This case will illustrates this possibility. While a defendant should be afforded the full benefit of this type of rectifying motion, courts should be on the alert to see that the privilege of its use is not abused." (112-13)
+
+				"But it is not the province of this Court or the Circuit Court of Appeals to review orders granting or denying motions for a new trial when such review is sought on the alleged ground that the trial court made erroneous findings of fact."  (111)
+					we need to make sure that we don't frame it as the trial court made erroneous findings of fact
+			
+			* Mesarosh v. United States, 352 U.S. 1 (1956)
+				motion granted (but requested by government, not requested by defense)
+
+				super weird McCarthy era case about a Smith Act case against suspected communists. defendants are convicted, and a series of appeals follow. eventually, the GOVERNMENT (not the defendants) questions the credibility of its own witness and asks for a new trial, which is granted. the court explicitly says that this motion wouldn't be granted if brought by the defense.
+
+				great patriotic language about how this nation can't convict on tainted testimony, so that will be a goldmine for us
+
+				weird history with three SCOTUS level decisions on the same case. look into that further
+
+				941 Cumulative > 941(1) In general
+					Newly discovered evidence which is merely cumulative is not ground for new trial. (headnote)
+
+				942 Impeachment of Witness > 942(2) Contradictory statements by witness
+					Untruthful statements by Government witness subsequent to trial do not ordinarily constitute such newly discovered evidence as will entitle defendant to new trial. (headnote)
+
+			Shotwell Mfg. Co. v. United States, 371 U.S. 341 (1963)
+				motion denied
+				942 Impeachment of Witness > 942(1) In General 
+					A substantially discovered inaccuracy in testimony of an important trial witness which might affect his credibility in the eyes of the jury, will not necessarily entitle convicted defendant to a new trial. (headnote)
+						"To overturn the denial of a new trial in this case by the two lower courts would be tantamount to saying that any subsequently discovered inaccuracy in the testimony of an important trial witness, which might have affected his credibility in the eyes of the jury, would entitle a convicted defendant to a new trial. We cannot so hold." (357)
+
+							we can say this isn't an inaccuracy revealed in testimony presented at trial, it is a completely new issue that was not able to be presented at trial in the first place because it was unknown at the time
+
+			United States v. Socony-Vacuum Oil Co., 310 U.S. 150, 60 S. Ct. 811, 84 L. Ed. 1129 (1940)
+
+			Holmgren v. United States, 217 U.S. 509, 30 S. Ct. 588, 54 L. Ed. 861 (1910)
+
+			Holt v. United States, 218 U.S. 245, 31 S. Ct. 2, 54 L. Ed. 1021 (1910)
+
+			Fairmount Glass Works v. Cub Fork Coal Co., 287 U.S. 474, 53 S. Ct. 252, 77 L. Ed. 439 (1933)
+
+				
 		standard of review
 			Cooter & Gell v. Hartmarx Corp., 496 U.S. 384 (1990)
 				abuse of discretion = clearly erroneous				
