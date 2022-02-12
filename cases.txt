@@ -80,8 +80,11 @@ new trial
 
 				"It would encourage perjury to allow a new trial once co-defendants have determined that testifying is no longer harmful to themselves. They may say whatever they think might help their co-defendant, even to the point of pinning all the guilt on themselves, knowing they are safe from retrial. Such testimony would be untrustworthy and should not be encouraged. We find that the judge did not abuse his discretion in refusing to grant a new trial on the basis of newly discovered evidence." (1188)
 
+
 				we can contrast with the restraints on Dr. Diaz because he was threatened to not come forward
 					"Agent Lopez told me that if I did not cooperate with his investigation, he would do everything he could to have my license to prescribe controlled substances revoked. He also threatened to flood my office with subpoenas and federal officers as part of a lengthy investigation. He also told me that if I disclosed our conversation to anyone, I would be charged with obstruction of justice." R. at 90.
+
+					would not encourage perjury
 
 			United States v. McKinney, 952 F.2d 333,  (9th Cir. 1991)
 				motion denied 
@@ -99,7 +102,7 @@ new trial
 			United States v. Smith, 650 F. App'x 458 (9th Cir. 2016)
 				motion denied
 				unpublished
-				"Smith's supposedly new evidence was that Smith had not confessed to Lewis, but instead Lewis had learned facts about Smith's case from reading Smith's discovery. Even taking *461 this evidence as true, Smith knew he denied confessing to Lewis. He suspected at trial that Lewis had gotten information about his case from reading his discovery. He knew that he had given his discovery to a porter to give to a jailhouse lawyer, whom he had never met. Smith should have investigated the porter and jailhouse lawyer before trial, and his failure to do so was a sufficient basis for denying the motion for a new trial."
+				"Smith's supposedly new evidence was that Smith had not confessed to Lewis, but instead Lewis had learned facts about Smith's case from reading Smith's discovery. Even taking this evidence as true, Smith knew he denied confessing to Lewis. He suspected at trial that Lewis had gotten information about his case from reading his discovery. He knew that he had given his discovery to a porter to give to a jailhouse lawyer, whom he had never met. Smith should have investigated the porter and jailhouse lawyer before trial, and his failure to do so was a sufficient basis for denying the motion for a new trial."
 					we can contrast because we had no knowledge that the loss of insurance coverage was fraudulent
 
 		material
@@ -112,7 +115,11 @@ new trial
 
 			United States v. Norman, 402 F.2d 73 (9th Cir. 1968)
 				motion denied
-				"In any event, the telephone listing was immaterial under the circumstances of this case. There was no dispute about the fact that defendant resided at 955-A Oak Street, San Francisco, where the three transactions took place. Government agents witnessed White enter and leave that residence on three occasions. They also saw defendant leave that dwelling at the time of the second transaction, and enter it at the time of the third transaction. Assuming that the telephone was listed in the name of someone else, that fact would not have undermined the Government's case in the least. Moreover, defendant must have known at the time of the trial whether the telephone was listed in his name during the period in question. It is safe to assume that if he then thought it was a material matter he would have produced the contradictory evidence at the trial." (78)
+
+				"In any event, the telephone listing was immaterial under the circumstances of this case. There was no dispute about the fact that defendant resided at 955-A Oak Street, San Francisco, where the three transactions took place. Government agents witnessed White enter and leave that residence on three occasions. They also saw defendant leave that dwelling at the time of the second transaction, and enter it at the time of the third transaction. Assuming that the telephone was listed in the name of someone else, that fact would not have undermined the Government's case in the least." (78)
+					can't use newly discovered evidence to cast doubt on a fact that already has sufficient support from other pieces of evidence
+
+				"Moreover, defendant must have known at the time of the trial whether the telephone was listed in his name during the period in question. It is safe to assume that if he then thought it was a material matter he would have produced the contradictory evidence at the trial." (78)
 
 			Henry v. United States, 12 F.2d 670 (9th Cir. 1926)
 				motion denied
@@ -120,10 +127,18 @@ new trial
 					Agent Lopez was a witness at trial, and had a clear connection with the prosecution. Thus the proferred testimony is not too remote to be considered material. 
 
 		cumulative/merely impeaching
+			cumulative
+
+			merely impeaching
+				United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
+					cited in Harrington (601) to say 
+						"impeach a portion of the officers' testimony regarding one instance of surveillance, but do not render their testimony wholly incredible" (825)
+						"inconsistencies therefore are not material to the issues at trial" (825)
+					"Ordinarily, evidence impeaching a witness will not be material under Walgren because it will not refute an essential element of the government's case." (825)
 
 
 		probably result in acquittal
-
+			TODO
 
 		general
 			Evalt v. United States, 382 F.2d 424 (9th Cir. 1967)
@@ -156,6 +171,22 @@ new trial
 				“[t]he diligence required for equitable tolling purposes is ‘reasonable diligence,’ not ‘maximum feasible diligence.’”
 					not super relevant, but might be a fun thing to throw in somewhere along with reference that footnote equates diligence in equitable tolling purposes and motions for a new trial
 
+			United States v. Young, 17 F.3d 1201 (9th Cir. 1994)
+				motion GRANTED !!!
+				"A conviction based in part on false evidence, even false evidence presented in good faith, hardly comports with fundamental fairness." (1203-04)
+
+				not super on point, because the gov in our case didn't present any false evidence, they just caused the financial troubles that disposed Hark to commit the crime
+
+			United States v. Chisum, 436 F.2d 645 (9th Cir. 1971)
+				motion GRANTED !!!
+
+				"petitioner was entitled to a new trial on narcotics charges where convictions rested on testimony of government agents, whom the government had charged with conspiring to violate justice, giving of false testimony and willfully depriving another of his civil rights in investigating another narcotics case at same time they were investigating case against petitioner and whose testimony in both cases related to contemporaneous and somewhat similar events."
+
+				not super on point, because gov is unlikely to turn on agent lopez
+
+
+
+
 
 		standard of review
 			* United States v. Hinkson, 585 F.3d 1247 (9th Cir. 2009)
@@ -180,6 +211,34 @@ new trial
 
 	SCOTUS
 		motion for new trial on basis of newly discovered evidence
+			Shotwell Mfg. Co. v. United States, 371 U.S. 341 (1963)
+				motion denied
+				942 Impeachment of Witness > 942(1) In General 
+					A substantially discovered inaccuracy in testimony of an important trial witness which might affect his credibility in the eyes of the jury, will not necessarily entitle convicted defendant to a new trial. (headnote)
+						"To overturn the denial of a new trial in this case by the two lower courts would be tantamount to saying that any subsequently discovered inaccuracy in the testimony of an important trial witness, which might have affected his credibility in the eyes of the jury, would entitle a convicted defendant to a new trial. We cannot so hold." (357)
+
+							we can say this isn't an inaccuracy revealed in testimony presented at trial, it is a completely new issue that was not able to be presented at trial in the first place because it was unknown at the time
+			
+			* Mesarosh v. United States, 352 U.S. 1 (1956)
+				motion granted (but requested by government, not requested by defense)
+
+				super weird McCarthy era case about a Smith Act case against suspected communists. defendants are convicted, and a series of appeals follow. eventually, the GOVERNMENT (not the defendants) questions the credibility of its own witness and asks for a new trial, which is granted. the court explicitly says that this motion wouldn't be granted if brought by the defense.
+
+				great patriotic language about how this nation can't convict on tainted testimony, so that will be a goldmine for us
+					"The government of strong and free nation does not need convictions based upon such testimony. It cannot afford to abide with them." (14)
+
+					"Mazzei, by his testimony, has poisoned the water in this reservoir, and the reservoir cannot be cleansed without first draining it of all impurity. This is a federal criminal case, and this Court has supervisory jurisdiction over the proceedings of the federal courts.9 If it has any duty to perform in this regard, it is to see that the waters of justice are not polluted. Pollution having taken place here, the condition should be remedied at the earliest opportunity." (14)
+
+					"‘The untainted administration of justice is certainly one of the most cherished aspects of our institutions. Its observance is one of our proudest boasts. This Court is charged with supervisory functions in relation to proceedings in the federal courts. See McNabb v. United States, 318 U.S. 332, 63 S.Ct. 608, 87 L.Ed. 819. Therefore, fastidious regard for the honor of the administration of justice requires the Court to make certain that the doing of justice be made so manifest that only irrational or perverse claims of its disregard can be asserted.’ Communist Party v. Subversive Activities Control Board, 351 U.S. 115, 124, 76 S.Ct. 663, 668."
+
+				weird history with three SCOTUS level decisions on the same case. look into that further
+
+				941 Cumulative > 941(1) In general
+					Newly discovered evidence which is merely cumulative is not ground for new trial. (headnote)
+
+				942 Impeachment of Witness > 942(2) Contradictory statements by witness
+					Untruthful statements by Government witness subsequent to trial do not ordinarily constitute such newly discovered evidence as will entitle defendant to new trial. (headnote)
+
 			United States v. Johnson, 327 U.S. 106 (1946)
 				found through WestLaw Keys
 
@@ -191,37 +250,16 @@ new trial
 
 				"But it is not the province of this Court or the Circuit Court of Appeals to review orders granting or denying motions for a new trial when such review is sought on the alleged ground that the trial court made erroneous findings of fact."  (111)
 					we need to make sure that we don't frame it as the trial court made erroneous findings of fact
-			
-			* Mesarosh v. United States, 352 U.S. 1 (1956)
-				motion granted (but requested by government, not requested by defense)
 
-				super weird McCarthy era case about a Smith Act case against suspected communists. defendants are convicted, and a series of appeals follow. eventually, the GOVERNMENT (not the defendants) questions the credibility of its own witness and asks for a new trial, which is granted. the court explicitly says that this motion wouldn't be granted if brought by the defense.
+			TODO
 
-				great patriotic language about how this nation can't convict on tainted testimony, so that will be a goldmine for us
+				United States v. Socony-Vacuum Oil Co., 310 U.S. 150, 60 S. Ct. 811, 84 L. Ed. 1129 (1940)
 
-				weird history with three SCOTUS level decisions on the same case. look into that further
+				Holmgren v. United States, 217 U.S. 509, 30 S. Ct. 588, 54 L. Ed. 861 (1910)
 
-				941 Cumulative > 941(1) In general
-					Newly discovered evidence which is merely cumulative is not ground for new trial. (headnote)
+				Holt v. United States, 218 U.S. 245, 31 S. Ct. 2, 54 L. Ed. 1021 (1910)
 
-				942 Impeachment of Witness > 942(2) Contradictory statements by witness
-					Untruthful statements by Government witness subsequent to trial do not ordinarily constitute such newly discovered evidence as will entitle defendant to new trial. (headnote)
-
-			Shotwell Mfg. Co. v. United States, 371 U.S. 341 (1963)
-				motion denied
-				942 Impeachment of Witness > 942(1) In General 
-					A substantially discovered inaccuracy in testimony of an important trial witness which might affect his credibility in the eyes of the jury, will not necessarily entitle convicted defendant to a new trial. (headnote)
-						"To overturn the denial of a new trial in this case by the two lower courts would be tantamount to saying that any subsequently discovered inaccuracy in the testimony of an important trial witness, which might have affected his credibility in the eyes of the jury, would entitle a convicted defendant to a new trial. We cannot so hold." (357)
-
-							we can say this isn't an inaccuracy revealed in testimony presented at trial, it is a completely new issue that was not able to be presented at trial in the first place because it was unknown at the time
-
-			United States v. Socony-Vacuum Oil Co., 310 U.S. 150, 60 S. Ct. 811, 84 L. Ed. 1129 (1940)
-
-			Holmgren v. United States, 217 U.S. 509, 30 S. Ct. 588, 54 L. Ed. 861 (1910)
-
-			Holt v. United States, 218 U.S. 245, 31 S. Ct. 2, 54 L. Ed. 1021 (1910)
-
-			Fairmount Glass Works v. Cub Fork Coal Co., 287 U.S. 474, 53 S. Ct. 252, 77 L. Ed. 439 (1933)
+				Fairmount Glass Works v. Cub Fork Coal Co., 287 U.S. 474, 53 S. Ct. 252, 77 L. Ed. 439 (1933)
 
 				
 		standard of review
@@ -243,3 +281,14 @@ new trial
 
 			 United States v. Yellow Cab Co., 338 U.S. 338 (1949)
 				cited in Hinkson (1260) for more deferential abuse of discretion standard (342)
+
+	TODO
+		US v. Young citing references that cite headnote and are in 9th Cir. (23 hits with some repeats)
+			look for cases that also grant the motion 
+
+		Key 941 cumulative evidence
+
+		Key 942 impeachment of witness
+
+		one good case method on a couple of good cases
+

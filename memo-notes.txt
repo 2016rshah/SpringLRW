@@ -26,6 +26,8 @@ theory of case
 				bad because higher bar than pressured
 			pressured
 			held hostage
+			sabotage
+
 
 
 	help mom
@@ -44,6 +46,12 @@ theory of case
 					he was going to school
 
 			repeatedly
+
+	"Hark had everything under control until agent lopez sabotaged his life"/turned his life into hell/targeted him for coercion
+		Agent Lopez was the reason for Hark's financial troubles, which was not able to be presented at the original trial
+		not predisposed (which was dispositive for lack of entrapment) because Hark was only motivated by making money because Agent Lopez introduced artificial financial obstacles into Hark's life
+
+	* "Hark had everything under control until agent lopez sabotaged his life"
 
 evidence
 	defense assigning memo (R. at 1)
