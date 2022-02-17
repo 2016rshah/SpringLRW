@@ -36,10 +36,8 @@ theory of case
 		predisposition: going to school already to help his mom
 
 
-	agent lopez coerced hark's 
+	agent lopez coerced hark's/turned his life into hell/targeted him for coercion
 		
-
-
 		coerced
 			momma's boy
 				already trying to help out mom
@@ -47,9 +45,10 @@ theory of case
 
 			repeatedly
 
-	"Hark had everything under control until agent lopez sabotaged his life"/turned his life into hell/targeted him for coercion
+	"Hark had everything under control until agent lopez sabotaged his life"
 		Agent Lopez was the reason for Hark's financial troubles, which was not able to be presented at the original trial
 		not predisposed (which was dispositive for lack of entrapment) because Hark was only motivated by making money because Agent Lopez introduced artificial financial obstacles into Hark's life
+			motivated by ~money~ -> motivated by *agent lopez*
 
 	* "Hark had everything under control until agent lopez sabotaged his life"
 

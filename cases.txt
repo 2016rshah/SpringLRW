@@ -18,6 +18,13 @@ entrapment as matter of law
 		quoted in Jones
 			five factors for predisposition
 			“Although none of these five factors controls, the most important is the defendant's reluctance to engage in criminal activity.” (1217)
+
+	martinez was a strong case for our side
+		inference of inappropriately aggressive in inducing martinez 
+
+			"strong circumstantial support for the inference that [gov agent] was innappropriately aggressive in inducing martinez"
+
+		does stronger showing of inducement cure the finding against us below?
 			
 new trial
 	westlaw keys
@@ -92,6 +99,9 @@ new trial
 
 				our evidence was discovered after trial because the doctor only decided to break their intentional silence *after reading about the trial*
 
+			United States v. DePalma, 461 F.2d 240 (9th Cir. 1972)
+				witness testimony for witness who was out of country at time of trial is likely not "newly discovered" if no request was made at time of trial for a continuance until they returned (241)
+
 		diligence
 			Home > West Key Number System > 110 CRIMINAL LAW > XXI. MOTIONS FOR NEW TRIAL, k905-k965 > 937 Newly discovered evidence > 939 Diligence > (1) In general
 
@@ -128,6 +138,49 @@ new trial
 
 		cumulative/merely impeaching
 			cumulative
+				Beyda v. United States, 324 F.2d 526 (9th Cir. 1963)
+					motion denied
+					badly explained decision that seemed to rest mainly on the fact the affiant was unreliable
+
+				Wolcher v. United States, 233 F.2d 748 (9th Cir. 1956)
+					motion denied
+					cumulative because evidence tried to account for black market money
+						only accounted for a part of it, didn't account for a majority of the money at all
+						defendant had already presented a story that this evidence would merely corroborate
+
+				* Gage v. United States, 167 F.2d 122 (9th Cir. 1948)
+					motion denied
+
+					cumulative and would not probably change result
+					
+					* "Of the six individuals whose conversations with counsel for appellant were recorded, three testified at the trial. No showing is made that the remaining three were not available and could not be summoned as witnesses at the trial." (125)
+						the doctor was not availible and could not be summoned as a witness at the trial because of the threats Agent Lopez made against the doctor
+					"the contents of the exhibits were entirely consistent with the testimony given at the trial, being of the same nature as the evidence produced in support of his defense that he was trying to entrap Tomsone." (125)
+						we need to show that our theory of defense has fundamentally changed. strong counterargument that our defense has stayed the same (entrapment), we just have a new theory for it
+
+				Boyd v. United States, 30 F.2d 900 (9th Cir. 1929)
+					motion denied
+
+					relevant evidence would be hearsay and inadmissible at trial (901)
+					rest of the evidence was cumulative (conclusory statement) (901)
+
+				Evalt v. United States, 382 F.2d 424 (9th Cir. 1967)
+					motion denied 
+					
+					dream about act of god supporting insanity defense is cumulative of the insanity defense that was raised in the lower court. 
+					the dream was after the incident, so it would not help establish insanity defense at time of incident
+
+				Morgan v. United States, 301 F.2d 272 (9th Cir. 1962)
+					motion denied
+					sole purpose of evidence can't be to merely corroborate testimony from trial
+						"the newly discovered evidence mentioned in the motion was evidence the sole purpose of which was to corroborate testimony of appellant and others taken at the trial. Thus it appeared that the newly discovered evidence was merely cumulative and hence did not warrant the granting of a new trial" (275)
+
+				United States v. DePalma, 461 F.2d 240 (9th Cir. 1972)
+					motion denied
+
+					cumulative and not newly discovered
+
+					new witness that corroborates other witnesses the jury did not believe is cumulative
 
 			merely impeaching
 				United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
@@ -135,16 +188,49 @@ new trial
 						"impeach a portion of the officers' testimony regarding one instance of surveillance, but do not render their testimony wholly incredible" (825)
 						"inconsistencies therefore are not material to the issues at trial" (825)
 					"Ordinarily, evidence impeaching a witness will not be material under Walgren because it will not refute an essential element of the government's case." (825)
+						I think this lets us develop the rule "if evidence refutes an essential element of the government's case then it is not merely impeaching"
 
 
 		probably result in acquittal
+		
+			United States v. Wilkes, 744 F.3d 1101 (9th Cir. 2014)
+				motion denied
+
+			United States v. Berry, 624 F.3d 1031 (9th Cir. 2010)
+				motion denied
+				seems to imply a but-for test for probable effect 
+					"even without the CABL evidence, there was sufficient evidence to support Berry's conviction." (1042)
+
+			United States v. Young, 17 F.3d 1201 (9th Cir. 1994)
+				motion GRANTED !!!
+				see elswhere
+
+			United States v. Kulczyk, 931 F.2d 542 (9th Cir. 1991)	
+				motion denied
+
+			United States v. Joelson, 7 F.3d 174 (9th Cir. 1993)
+				motion denied
+				not newly discovered and not probable to result in acquittal
+				seems to require likelihood of success on the merits for legal elements
+					claimed newly discovered evidence of durress defense but court found it seemed to not satisfy the durress defense requirements on the merits
+
+			United States v. Claiborne, 870 F.2d 1463 (9th Cir. 1989)
+				motion denied
+				seems to require specificity
+					"since Swanson's impeachment testimony indicated only that appellant's secretary Judy Ahlstrom visited appellant's tax preparer's office on an unspecified date in either 1979 or 1980 and delivered something (Swanson could not say what), it is highly improbable that Swanson's testimony at trial would have changed anything. Thus, this claim was properly rejected." (1468)
+
 			TODO
+				16 more cases here
+					110 CRIMINAL LAW > Motions for New Trial > 937 Newly Discovered Evidence > 945 Sufficiency and Probable Effect > 945(1) Probable effect of new evidence, in general
+
+				complicated
+
+					United States v. Jernigan, 451 F.3d 1027 (9th Cir. 2006), rev'd and remanded, 492 F.3d 1050 (9th Cir. 2007)
+
+					United States v. Henson, 123 F.3d 1226 (9th Cir. 1997), disapproved of by United States v. Foster, 165 F.3d 689 (9th Cir. 1999)
+
 
 		general
-			Evalt v. United States, 382 F.2d 424 (9th Cir. 1967)
-				motion denied because dream about act of god supporting insanity defense is cumulative of the insanity defense that was raised in the lower court. furthermore, the dream was after the incident, so it would not help establish insanity defense at time of incident
-					the "furthermore" clause can help us distinguish
-
 			United States v. Eldred, 588 F.2d 746 (9th Cir. 1978)
 				motion denied because evidence referenced in the affidavits was known to counsel at the time it occurred (752-53)
 
@@ -159,11 +245,6 @@ new trial
 				but unpublished and no details about the case 
 				LOL rip
 
-			Wolcher v. United States, 233 F.2d 748 (9th Cir. 1956)
-				motion denied
-
-			United States v. Wilkes, 744 F.3d 1101 (9th Cir. 2014)
-				motion denied
 
 			Smith v. Davis, 953 F.3d 582 (9th Cir. 2020), cert. denied, 141 S. Ct. 878
 				not actually a new trial motion
@@ -171,21 +252,29 @@ new trial
 				“[t]he diligence required for equitable tolling purposes is ‘reasonable diligence,’ not ‘maximum feasible diligence.’”
 					not super relevant, but might be a fun thing to throw in somewhere along with reference that footnote equates diligence in equitable tolling purposes and motions for a new trial
 
-			United States v. Young, 17 F.3d 1201 (9th Cir. 1994)
+			* United States v. Young, 17 F.3d 1201 (9th Cir. 1994)
 				motion GRANTED !!!
 				"A conviction based in part on false evidence, even false evidence presented in good faith, hardly comports with fundamental fairness." (1203-04)
 
 				not super on point, because the gov in our case didn't present any false evidence, they just caused the financial troubles that disposed Hark to commit the crime
 
-			United States v. Chisum, 436 F.2d 645 (9th Cir. 1971)
+			* United States v. Chisum, 436 F.2d 645 (9th Cir. 1971)
 				motion GRANTED !!!
 
 				"petitioner was entitled to a new trial on narcotics charges where convictions rested on testimony of government agents, whom the government had charged with conspiring to violate justice, giving of false testimony and willfully depriving another of his civil rights in investigating another narcotics case at same time they were investigating case against petitioner and whose testimony in both cases related to contemporaneous and somewhat similar events."
 
 				not super on point, because gov is unlikely to turn on agent lopez
 
+			Williams v. United States, 500 F.2d 105 (9th Cir. 1974)
+				motion granted !!!
 
+				"held that defendant was entitled to new trial by reason of tainted, material testimony of government agent who was subsequently convicted of perjury in connection with another investigation similar in nature and contemporaneous in time to the investigation of defendant" (synopsis)
 
+				also not super on point bc no perjury conviction in a related case
+
+			United States v. Krasny, 607 F.2d 840 (9th Cir. 1979)
+				limits application of mesarosh to key witness perjury 
+					"We believe that the principles which guided the Court in Mesarosh are limited in application to those rare cases where the credibility of a key government witness has been “wholly discredited” by the witness' commission of perjury in other cases involving substantially similar subject matter." (845)
 
 
 		standard of review
@@ -220,7 +309,7 @@ new trial
 							we can say this isn't an inaccuracy revealed in testimony presented at trial, it is a completely new issue that was not able to be presented at trial in the first place because it was unknown at the time
 			
 			* Mesarosh v. United States, 352 U.S. 1 (1956)
-				motion granted (but requested by government, not requested by defense)
+				motion granted (but requested by government, not requested by defense rule 33 motion)
 
 				super weird McCarthy era case about a Smith Act case against suspected communists. defendants are convicted, and a series of appeals follow. eventually, the GOVERNMENT (not the defendants) questions the credibility of its own witness and asks for a new trial, which is granted. the court explicitly says that this motion wouldn't be granted if brought by the defense.
 
