@@ -1,0 +1,85 @@
+Conclusion: motion for a new trial should be granted based on newly discovered evidence.
+	Rule. 
+		see rules.txt
+
+	Analysis
+		Conclusion: Dr. Rafael Diaz's newly discovered affidavit reveals how Agent Lopez fraudulently revoked Hark's mother's health insurance to coerce him to follow along with Agent Lopez's plot. 
+			Rule. 
+				exposition about the affidavit. Proof: record cite.
+
+				TODO: figure out what elements of the affidavit want to draw out in the prose. 
+				
+			Analysis
+				newly discovered
+					analogize with Young because defense knew the other police officer existed, but had no reason to know their testimony would do anything more than merely corroborate the other officer's testimony.
+					disanalogize with Reyes-Alvarado because we have "evidence that [the witness was] forced to refrain from testifying during defendant's trial" 
+				appropriate due dilegence
+					"known or suspected", but this evidence was neither known nor suspected. Health insurance issues are characteristic of the US health care system, so there was no reason to suspect intervention by the Drug Enforcement Agency triggered the revocation of health insurance. 
+				material
+
+				neither cumulative nor merely impeaching
+					not cumulative
+
+					not merely impeaching
+
+				would probably result in an acquital
+
+				abuse of discretion
+					"without support in inferences that may be drawn from the facts in the record" because ???
+
+			Conclusion: This affidavit standing alone is sufficient to justify a new trial. But Merry Boak's and Sophia Brooks' affidavits paint a fuller story about why Agent Lopez was so desperate.
+
+		Conclusion: Merry Boak's newly discovered affidavit reveals that Agent Lopez perjured himself during cross examination to conceal Hark's reluctance about Agent Lopez's plot.
+			Rule.
+				Merry Boak (employee at coffee shop): "Hark sat up on his chair and told Lopez that he wasn’t going to be involved in selling drugs. He told Lopez to leave him alone about this stuff." Proof: R. at 80. 
+
+				"Q: You testified earlier that you talked with Mr. Hark at a coffee shop. Did Mr. Hark tell you to leave him alone about selling heroin? A: No way. I would remember that. Q: Did Mr. Hark tell you that he didn’t want anything to do with selling heroin? A: Nope." Proof: R. at 27.
+
+			Analysis
+
+				More than *merely* impeaching because refutes an essential element of the government's case. 
+
+				Similar evidence was presented at trial when Hark's own testimony, R. at ____, impeached Agent Lopez's testimony, R. at ____. However, this affidavit is neither merely corroborating Hark's testimony nor merely impeaching Agent Lopez's testimony. Instead, this affidavit refutes an essential element of the government's case -- namely the reluctance prong of the entrapment defense -- and implicates a key government witness in perjury. TODO: analogy. 
+
+				Would probably result in an acquittal because more than a merely collateral point.
+
+		Conclusion: Sophia Brooks' newly discovered affidavit ties the other two affidavits together by demonstrating that Agent Lopez went to such drastic lengths to coerce Hark because mere money failed to secure his cooperation.
+			Rule.
+				Sophia Brook: "he wasn't biting last time, but I'm gonna try and turn up the volume later today ... I can play up the family angle. His mom is really sick."
+			Analysis
+				newly discovered
+					both came forward after the trial.
+				appropriate due diligence
+					explain bad fact about Sophia Brooks seeing dean of student's email in the junk mail
+				material
+
+				neither cumulative nor merely impeaching
+					not cumulative
+						bulk of explanation here.
+						needed to explain Agent Lopez's plot, which was not suspected at the time of te trial. thus, this testimony isn't cumulative of anything discussed during trial.
+					not merely impeaching
+						???
+				would probably result in an acquital
+					explains the narrative to a jury about *why* Agent Lopez was so focused on this 
+				
+			Conclusion
+
+Conclusion: Denying the interest of justice would be more costly than granting a new trial. 
+	Rule. Proof.
+		"The untainted administration of justice is certainly one of the most cherished aspects of our institutions." Mesarosh v. United States, 352 U.S. 1, 14 (1956). 
+
+		"I am acutely concerned about the cost of a new trial." R. at 86.
+
+		A lower court must make a decision by identifying and applying the correct legal rule for the relief sought. United States v. Hinkson, 585 F.3d 1247, 1259 (9th Cir. 2009). That decision will be an abuse of discretion if it is "illogical, implausible, or without support in inferences that may be drawn from the facts in the record". United States v. Hinkson, 585 F.3d 1247, 1259 (9th Cir. 2009). The five part test does not include any provisions for considering the cost of a new trial. United States v. Kulczyk, 931 F.2d 542, 548 (9th Cir. 1991).
+
+	Analysis
+		Tainted administration of justice: exculpatory witnesses being excluded from trial by the threat of government retaliation. 
+
+		Hark may have been just one unexpected healthcare bill away from dealing drugs, which is why he was securing a degree that would make him robust against such financial shocks. If such a legitimate shock had in fact forced him to desperation, maybe he would be culpable and deserve the sentence he was given. But, critically, this financial shock was artificially created by Agent Lopez. Agent Lopez's own ambition to secure a promotion from GS-7 to GS-9 cannot justify the healthcare burdens Agent Lopez imposed on Hark and his family. 
+
+		We should take very seriously a government agent going out of their way to target someone, especially when they targetted him for no reason. They give him everything: the contact, drugs, "changed material circumstances", etc. 
+
+		abuse of discretion
+			illogical because "acutely concerned about the cost of a new trial" is not an element relevant to the harrington test
+
+	Conclusion

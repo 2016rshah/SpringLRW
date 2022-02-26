@@ -58,16 +58,12 @@ new trial
 			United States v. Kulczyk, 931 F.2d 542 (9th Cir. 1991)		
 				cited in Harrington (601) for five part test (548)
 
-			United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
-				cited in Harrington (601) to say 
-					"impeach a portion of the officers' testimony regarding one instance of surveillance, but do not render their testimony wholly incredible" (825)
-					"inconsistencies therefore are not material to the issues at trial" (825)
-
 			United States v. Kenny, 645 F.2d 1323 (9th Cir. 1981), cert. denied, 452 U.S. 920 (1981)
 				cited in Harrington (601) to say "Even if the new evidence could be considered marginally material, Harrington cannot show that a new trial would probably result in acquittal" (1344)
 				cited in Walgren (1427) to say Kenny is the standard for when evidence is material (1343)
 
 			United States v. Walgren, 885 F.2d 1417 (9th Cir. 1989)
+				combines element 3 with element 4 (material = !cumulative + !impeaching)
 				lower standard when government misconduct than when merely new evidence is merely discovered 
 					"Walgren based his motion for a new trial on three grounds: 1) the government made knowing use of perjured testimony; 2) the government failed to disclose evidence favorable to him in response to his discovery requests; and 3) even if the government did not act improperly, the newly-discovered evidence entitles him to a new trial. The defendant carries a different burden in order to establish each of these bases for a new trial." (1427)
 				cited in Davis (825)
@@ -93,14 +89,20 @@ new trial
 
 					would not encourage perjury
 
-			United States v. McKinney, 952 F.2d 333,  (9th Cir. 1991)
+			United States v. McKinney, 952 F.2d 333 (9th Cir. 1991)
 				motion denied 
-				“We have long held that, in general, a defendant seeking a new trial on the basis of newly discovered evidence must show that the evidence relied on is, in fact, newly discovered, i.e., discovered after the trial.”) (335 internal quotation marks and citations omitted)
+				“We have long held that, in general, a defendant seeking a new trial on the basis of newly discovered evidence must show that the evidence relied on is, in fact, newly discovered, i.e., discovered after the trial.”) (335 internal quotation marks and citations omitted (pitts))
 
 				our evidence was discovered after trial because the doctor only decided to break their intentional silence *after reading about the trial*
 
+			Pitts v. United States, 263 F.2d 808 (9th Cir. 1959), cert. denied, 360 U.S. 919, 79 S.Ct. 1438, 3 L.Ed.2d 1535 (1959)
+				"the evidence relied on is, in fact, newly discovered, i.e., discovered after the trial" (810)
+
 			United States v. DePalma, 461 F.2d 240 (9th Cir. 1972)
 				witness testimony for witness who was out of country at time of trial is likely not "newly discovered" if no request was made at time of trial for a continuance until they returned (241)
+
+			United States v. Eldred, 588 F.2d 746 (9th Cir. 1978)
+				motion denied because evidence referenced in the affidavits was known to counsel at the time it occurred (752-53)
 
 		diligence
 			Home > West Key Number System > 110 CRIMINAL LAW > XXI. MOTIONS FOR NEW TRIAL, k905-k965 > 937 Newly discovered evidence > 939 Diligence > (1) In general
@@ -108,6 +110,15 @@ new trial
 			United States v. Brugnara, 856 F.3d 1198 (9th Cir. 2017)
 				motion denied
 				"It is not uncommon that a party fails to act diligently when he does not take advantage of reasonably available means to obtain known or suspected evidence before or at least during trial." (1206)
+				could have gotten a CJA expert appointment as suggested by the court but didn't because was represented pro se (1206)
+
+			United States v. George, 420 F.3d 991 (9th Cir. 2005)
+				motion denied
+				“failures to subpoena [the witness] before trial or contact the California State Franchise Tax Board to obtain copies of the radio stations’ state returns suggest[ed] that [he] was not diligent.” (1000–01) (as quoted in Brugnara 1207)
+
+			United States v. Kulczyk, 931 F.2d 542 (9th Cir. 1991)
+				motion denied
+				"failed to inform the judge before or at least during the trial that he was unable to locate [two known witnesses]" (548-49) (as quoted in Brugnara 1207)
 
 			United States v. Smith, 650 F. App'x 458 (9th Cir. 2016)
 				motion denied
@@ -183,13 +194,39 @@ new trial
 					new witness that corroborates other witnesses the jury did not believe is cumulative
 
 			merely impeaching
-				United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
+				* United States v. Davis, 960 F.2d 820 (9th Cir. 1992)
+					motion denied
+					material/merely impeaching/cumulative
 					cited in Harrington (601) to say 
 						"impeach a portion of the officers' testimony regarding one instance of surveillance, but do not render their testimony wholly incredible" (825)
 						"inconsistencies therefore are not material to the issues at trial" (825)
 					"Ordinarily, evidence impeaching a witness will not be material under Walgren because it will not refute an essential element of the government's case." (825)
 						I think this lets us develop the rule "if evidence refutes an essential element of the government's case then it is not merely impeaching"
 
+					good case to analogize
+
+				United States v. Marshall, 56 F.3d 1210 (9th Cir. 1995)
+					motion denied
+					"Impeachment evidence does not warrant new trial unless testimony was uncorroborated and provided only evidence of essential element of government's case."
+
+				United States v. Bischel, 61 F.3d 1429 (9th Cir. 1995)
+					motion denied
+					"defendant failed to carry burden of showing that witness committed perjury, witness' testimony was corroborated, and absence of verification of witnesses' testimony was used to impeach witness." (headnote)
+
+				United States v. Herbert, 698 F.2d 981 (9th Cir. 1983)
+					motion denied
+					"allegedly newly discovered evidence went only to impeachment of Government's main witness"
+
+				United States v. Butler, 567 F.2d 885 (9th Cir. 1978)
+					motion granted !?
+					"When the Government permits a witness to parade himself in false colors, and the truth is discovered, a motion for a new trial should be granted if the false testimony or nondisclosure could, in any reasonable likelihood, have affected the judgment of the jury." (headnote, with 12 citing references)
+
+				United States v. Sutton, 455 F.2d 974 (9th Cir. 1972)
+					motion granted !!!
+					literally no details about the case are given, LOL
+					"The appellants from material outside the record make a showing that the main prosecuting witness may have testified falsely. This is a matter that can now be the subject of a motion for a new trial."
+
+					can be really useful for a "but see"
 
 		probably result in acquittal
 		
@@ -229,10 +266,40 @@ new trial
 
 					United States v. Henson, 123 F.3d 1226 (9th Cir. 1997), disapproved of by United States v. Foster, 165 F.3d 689 (9th Cir. 1999)
 
+		perjury
+			Mesarosh (SCOTUS case, see elsewhere)
+
+			* United States v. Young, 17 F.3d 1201 (9th Cir. 1994)
+				motion GRANTED !!!
+				"A conviction based in part on false evidence, even false evidence presented in good faith, hardly comports with fundamental fairness." (1203-04)
+
+				testimony by prosecutor was known to be wrong at time of trial because police officer contradicted it but was out of town at the time of trial
+
+				not super on point, because the gov in our case didn't present any false evidence, they just caused the financial troubles that disposed Hark to commit the crime
+
+			* United States v. Chisum, 436 F.2d 645 (9th Cir. 1971)
+				motion GRANTED !!!
+
+				"petitioner was entitled to a new trial on narcotics charges where convictions rested on testimony of government agents, whom the government had charged with conspiring to violate justice, giving of false testimony and willfully depriving another of his civil rights in investigating another narcotics case at same time they were investigating case against petitioner and whose testimony in both cases related to contemporaneous and somewhat similar events."
+
+				not super on point, because gov is unlikely to turn on agent lopez
+
+				perjury
+
+			* Williams v. United States, 500 F.2d 105 (9th Cir. 1974)
+				motion granted !!!
+
+				"held that defendant was entitled to new trial by reason of tainted, material testimony of government agent who was subsequently convicted of perjury in connection with another investigation similar in nature and contemporaneous in time to the investigation of defendant" (synopsis)
+
+				also not super on point bc no perjury conviction in a related case
+
+			United States v. Krasny, 607 F.2d 840 (9th Cir. 1979)
+				limits application of mesarosh to key witness perjury 
+					"We believe that the principles which guided the Court in Mesarosh are limited in application to those rare cases where the credibility of a key government witness has been “wholly discredited” by the witness' commission of perjury in other cases involving substantially similar subject matter." (845)
+
+
 
 		general
-			United States v. Eldred, 588 F.2d 746 (9th Cir. 1978)
-				motion denied because evidence referenced in the affidavits was known to counsel at the time it occurred (752-53)
 
 			Butler v. United States, 310 F.2d 214 (9th Cir. 1962)
 				motion denied
@@ -252,29 +319,9 @@ new trial
 				“[t]he diligence required for equitable tolling purposes is ‘reasonable diligence,’ not ‘maximum feasible diligence.’”
 					not super relevant, but might be a fun thing to throw in somewhere along with reference that footnote equates diligence in equitable tolling purposes and motions for a new trial
 
-			* United States v. Young, 17 F.3d 1201 (9th Cir. 1994)
-				motion GRANTED !!!
-				"A conviction based in part on false evidence, even false evidence presented in good faith, hardly comports with fundamental fairness." (1203-04)
 
-				not super on point, because the gov in our case didn't present any false evidence, they just caused the financial troubles that disposed Hark to commit the crime
 
-			* United States v. Chisum, 436 F.2d 645 (9th Cir. 1971)
-				motion GRANTED !!!
 
-				"petitioner was entitled to a new trial on narcotics charges where convictions rested on testimony of government agents, whom the government had charged with conspiring to violate justice, giving of false testimony and willfully depriving another of his civil rights in investigating another narcotics case at same time they were investigating case against petitioner and whose testimony in both cases related to contemporaneous and somewhat similar events."
-
-				not super on point, because gov is unlikely to turn on agent lopez
-
-			Williams v. United States, 500 F.2d 105 (9th Cir. 1974)
-				motion granted !!!
-
-				"held that defendant was entitled to new trial by reason of tainted, material testimony of government agent who was subsequently convicted of perjury in connection with another investigation similar in nature and contemporaneous in time to the investigation of defendant" (synopsis)
-
-				also not super on point bc no perjury conviction in a related case
-
-			United States v. Krasny, 607 F.2d 840 (9th Cir. 1979)
-				limits application of mesarosh to key witness perjury 
-					"We believe that the principles which guided the Court in Mesarosh are limited in application to those rare cases where the credibility of a key government witness has been “wholly discredited” by the witness' commission of perjury in other cases involving substantially similar subject matter." (845)
 
 
 		standard of review

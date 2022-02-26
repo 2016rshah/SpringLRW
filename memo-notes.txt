@@ -1,3 +1,51 @@
+FINISHING TOUCHES TODO
+	fix pronouns in quotes to they/them for consistency
+	fix ' and " to be directed quotation marks
+	italicize citations
+		cert denied?
+	double spaces after periods
+	include first name in any introduction of a character (i.e. Jane Hark is Mrs. Hark is Mr. Hark's mother)
+	consistently include honorifics thereafter (Ms. Boak, Mr. Hark, Mrs. Hark)
+
+
+
+two questions for each affidavit
+	what essential element of the government's case does this affidavit refute?
+
+	how does this affidavit fit into the larger narrative?
+
+essential elements of government's case
+	motivated by money
+	criminal history
+	cost of trial
+
+
+
+
+topic sentences
+	
+	Motion for a new trial should be granted 
+
+		Merry Boak's affidavit demonstrates that Hark explicitly rejected Agent Lopez's attempt to motivate him through money. 
+			weakest point is cumulative of testimony presented at trial
+			refutes the trial court's claim that Hark was motivated by money
+			reluctance is the strongest factor 
+
+		Sophia Brooks' affidavit demonstrates that when Agent Lopez realized Hark is not motivated by money, he instead focused on targeting Hark's mother's weak health as the primary weapon of coercion
+
+
+		Dr. Rafael Diaz's affidavit demonstrates that in order to target Hark's mother's weak health, Agent Lopez forced the doctor to fraudulently revoke her health insurance and make Hark pay for the care out of pocket.
+			refutes the trial court
+		
+		Hark must be given the opportunity to present this newly discovered evidence in a new trial to preserve the institutional legitimacy of the criminal legal system. 
+			The cost of a new trial cannot stand in the way of the interest of justice.
+
+			The jury, rather than the judge, should weigh newly discovered evidence. 
+
+
+
+
+
 notes
 	DISTRICT OF GUAM: Mongmong, Guam (9th Cir.)
 
@@ -65,7 +113,39 @@ evidence
 
 	Agent Paul Lopez (prosecution witness) testimony
 		direct exam (R. at 19)
+			"After the first experiment, Archie always sought me out as a partner."
+				impeachment: "I also observed Paul Lopez darting across the classroom a few times in order to be nearby when it came time to pair up for lab. Most of us just partnered with whoever was nearby, but Lopez and Hark always seemed be paired up."
+
+				therefore he perjured himself on whether Archie sought him out as a partner
+
+			broken leg
+
+			"I headed over to Langdells, the local coffee shop. I bought an iced latte and as I was leaving I happened to see Mr. Hark sitting alone at the coffee bar, reading for class."
+				impeachment: "One Thursday in mid-March 2021 at 3:00 P.M., I was making coffee behind the bar at Langdells and observed Agent Lopez peering through the window into the shop. He had his face close to the glass and his hands cupped around his eyes. He was sort of scanning the place. It looked very unusual. As soon as his eyes fell on Archie Hark he stopped staring through the window and moved towards the entrance. I took Agent Lopez’s order and watched him walk over to an empty seat at the bar next to where Mr. Hark was reading."
+
+				therefore perjured himself on whether he saw Hark before or after ordering
+
+
 		cross exam (R. at 30)
+			"Q: you mentioned that you first noticed Mr. Hark when you heard him talk about marijuana with a friend, is that right?
+			A: Yes.
+			Q: And you hadn’t ever seen or heard of Mr. Hark before that point?
+			A: No. I mean, maybe in class.
+			Q: But you didn’t know who he was?
+			A: No."
+				impeachment: "During one of the first classes—in early January—I observed Paul Lopez examining what looked to me like a full-page mugshot of Archibald Hark. He looked down at the photograph and then up at Archibald Hark several times and then put the photograph out of sight."
+
+				therefore perjured himself on whether he knew about hark before class.
+					counterargument: unclear which date the conversation about marijuana was and which date the photograph was, so technically don't know the order
+
+
+			"Q: You testified earlier that you talked with Mr. Hark at a coffee shop. Did Mr. Hark tell you to leave him alone about selling heroin?
+			A: No way. I would remember that.
+			Q: Did Mr. Hark tell you that he didn’t want anything to do with selling heroin?
+			A: Nope."
+				impeachment: "Hark sat up on his chair and told Lopez that he wasn’t going to be involved in selling drugs. He told Lopez to leave him alone about this stuff."
+
+				therefore he perjured himself on whether or not Hark exhibited reluctance
 
 	Jason Jacobs (prosecution witness) testimony
 		direct exam (R. at 37)
@@ -97,11 +177,43 @@ evidence
 		P-2 picture of drugs (R. at 83)
 
 	Sophia Brooks affidavit (R. at 84)
+		(1) the evidence must be newly discovered; 
+			"I was not aware that the conversation I had overheard was relevant to this proceeding until the date of this statement." (R. at 85)
+				July 10, 2021
+		(2) the failure to discover the evidence sooner must not be the result of a lack of diligence on the defendant's part; 
+			defense counsel did due diligence by reaching out to Dean of Students, can't be expected to interface directly with every student at the university and can't be expected to interact students until they come forward with information
+				"In searching my junk mail, I discovered a message from the Dean of Students office asking for information, but never read the email until the date of this statement." (R. at 86)
+		(3) the evidence must be material to the issues at trial; 
+			not motivated by money
+				"he wasn't biting last time, but I'm gonna try and turn up the volume later today ... I can play up the family angle. His mom is really sick."
+		(4) the evidence must be neither cumulative nor merely impeaching; and 
+			not cumulative 
+				TODO
+			not merely impeaching
+				TODO
+		(5) the evidence must indicate that a new trial would probably result in acquittal.
+			TODO
 
 	Merry Boak affidiavit (R. at 87)
+		(1) the evidence must be newly discovered; 
+			
+		(2) the failure to discover the evidence sooner must not be the result of a lack of diligence on the defendant's part; 
+			
+		(3) the evidence must be material to the issues at trial; 
+			reluctance
+				"Hark sat up on his chair and told Lopez that he wasn’t going to be involved in selling drugs. He told Lopez to leave him alone about this stuff."
+					realistically, this is cumulative of Hark's testimony (R. at 54)
+		(4) the evidence must be neither cumulative nor merely impeaching; and 
+			not cumulative 
+				TODO
+			not merely impeaching
+				TODO
+		(5) the evidence must indicate that a new trial would probably result in acquittal.
+			TODO
 
 	Rafael Diaz (R. at 90)
 		doctor's affidavit
+		july 2021
 
 	ruling that denies both motions (R. at 92)
 		entrapment as matter of law

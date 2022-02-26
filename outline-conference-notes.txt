@@ -1,0 +1,81 @@
+entrapment 
+	standard of review
+		"undisputed evidence making it patently clear"
+
+	inducement
+		pull the list from williams (?)
+
+		*any* gov conduct creating substantial risk including _______ list of stuff
+			hammer home the "any" part of the phrase
+
+	there are some cases where predisposition is a stronger weight than inducement. so there is a line in "if predisposed then entrapment is unavailible regardless of inducement", which we need to watch out for
+
+	predisposition
+		previous drug conviction for cocaine v heroin v marijuana
+			marijuana is not a huge gateway to heroin
+
+		length of time (case citation)
+			18 to 24 age
+
+		reluctance
+			flesh this out a LOT
+			opponents will say weak reluctance is not enough
+			cautious != reluctant, so we need to establish stronger reluctance not caution
+
+	nature of inducement in predisposition versus inducement in first prong difference?
+		first prong is whether there is any inducement yes or no
+		but second prong is nature/degree of the inducement
+			emphasize misrepresentations, ...
+
+	don't focus on the argument about profit not being profit margin
+		but maybe family safety being threatened
+
+	discuss all three affidavits split up instead of factor by factor
+		makes it seem all different
+
+		they provide some new information about lopez's credibility 
+			frequency of contact
+			amount of mentions of heroin
+
+			first affidavit
+				trying to go out of his way
+				conversation she heard (play up the family angle) - intentional and explicit about exploiting mother's sickness
+			second affidavit
+				saw lopez looking through window
+				talks about family a lot
+				guam police are negligent
+
+				napkin
+
+				ending the conversation goes to reluctance
+
+	diligence
+		hide behind the trial court
+		talk about in the alternate
+		can't interview every potential witness (every student, especially everybody at the coffee shop)
+
+	history of rule 33
+
+	new trial is less formalistic, requires more creative argumentation. discuss rather than
+
+	use unpublished cases as persuasive
+
+	find case that talks about how there was no way of knowing there was relevant information unknown to defendant at the time of the trial
+
+	materiality
+		ninth circuit not super clear 
+		self referential definition defined as likelihood to result in acquittal
+		free to collapse those factors and discuss them together
+
+	1926 might be too early
+
+	have a section that is purely policy based
+		we should take very seriously a government agent going out of their way to target someone, especially when they targetted him for no reason.
+		give him everything
+			contact, drugs, "changed material circumstances", etc.
+			paragraph or two 
+
+
+
+
+
