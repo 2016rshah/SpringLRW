@@ -58,7 +58,7 @@ new trial
 			United States v. Kulczyk, 931 F.2d 542 (9th Cir. 1991)		
 				cited in Harrington (601) for five part test (548)
 
-			United States v. Kenny, 645 F.2d 1323 (9th Cir. 1981), cert. denied, 452 U.S. 920 (1981)
+			United States v. Kenny, 645 F.2d 1323 (9th Cir. 1981)
 				cited in Harrington (601) to say "Even if the new evidence could be considered marginally material, Harrington cannot show that a new trial would probably result in acquittal" (1344)
 				cited in Walgren (1427) to say Kenny is the standard for when evidence is material (1343)
 
@@ -77,7 +77,7 @@ new trial
 		"newly discovered"
 			Home > West Key Number System > 110 CRIMINAL LAW > XXI. MOTIONS FOR NEW TRIAL, k905-k965 > 937 Newly discovered evidence > 938 —In general > (2) What constitutes newly discovered evidence in general
 
-			* United States v. Reyes-Alvarado, 963 F.2d 1184 (9th Cir. 1992), as amended (June 15, 1992)
+			* United States v. Reyes-Alvarado, 963 F.2d 1184 (9th Cir. 1992)
 				motion denied
 				Codefendants' testimony exculpating defendant was not newly discovered evidence which entitled defendant to new trial; there was no evidence that codefendants were forced to refrain from testifying during defendant's trial but, rather, it was probably prudent for them to decline to testify and now after they had been sentenced, it was safe for them to testify. (headnote)
 
@@ -95,7 +95,7 @@ new trial
 
 				our evidence was discovered after trial because the doctor only decided to break their intentional silence *after reading about the trial*
 
-			Pitts v. United States, 263 F.2d 808 (9th Cir. 1959), cert. denied, 360 U.S. 919, 79 S.Ct. 1438, 3 L.Ed.2d 1535 (1959)
+			Pitts v. United States, 263 F.2d 808 (9th Cir. 1959)
 				"the evidence relied on is, in fact, newly discovered, i.e., discovered after the trial" (810)
 
 			United States v. DePalma, 461 F.2d 240 (9th Cir. 1972)
@@ -313,7 +313,7 @@ new trial
 				LOL rip
 
 
-			Smith v. Davis, 953 F.3d 582 (9th Cir. 2020), cert. denied, 141 S. Ct. 878
+			Smith v. Davis, 953 F.3d 582 (9th Cir. 2020)
 				not actually a new trial motion
 				but a rehearing en banc that mentions Harrington test of diligence in a footnote
 				“[t]he diligence required for equitable tolling purposes is ‘reasonable diligence,’ not ‘maximum feasible diligence.’”

@@ -33,15 +33,33 @@ Conclusion: motion for a new trial should be granted based on newly discovered e
 			Rule.
 				Merry Boak (employee at coffee shop): "Hark sat up on his chair and told Lopez that he wasn’t going to be involved in selling drugs. He told Lopez to leave him alone about this stuff." Proof: R. at 80. 
 
-				"Q: You testified earlier that you talked with Mr. Hark at a coffee shop. Did Mr. Hark tell you to leave him alone about selling heroin? A: No way. I would remember that. Q: Did Mr. Hark tell you that he didn’t want anything to do with selling heroin? A: Nope." Proof: R. at 27.
+
+				hark direct
+					" Q: Did Agent Lopez discuss dealing heroin with you a second time? A: Yes, we ran into each other at Langdells a few days later. He actually pitched me pretty hard. He called it a “foolproof plan,” talked about my mom, and even wrote down on a napkin what he thought I could earn.
+					...
+					Q: What did you say to Agent Lopez? A: I told him to leave me alone about this. I told him I didn’t want to have anything to do with selling heroin." R. at 45-46.
+
+				lopez cross
+					"Q: You testified earlier that you talked with Mr. Hark at a coffee shop. Did Mr. Hark tell you to leave him alone about selling heroin? A: No way. I would remember that. Q: Did Mr. Hark tell you that he didn’t want anything to do with selling heroin? A: Nope." Proof: R. at 27.
 
 			Analysis
+				newly discovered
+				appropriate due diligence
+				material
+					whether or not Hark expressed reluctance is more than merely collateral point.
+					point proved is contested (conflicting testimony) rather than overwhelming supported on one side
+						at trial it was defendant's word versus agent's word. now we have disinterested third party testimony that reveals that agent lopez chose to lie when cross examination, which renders agent lopez wholly incredible
+						his choice to answer a point-blank question untruthfully makes him a liability rather than a pillar of the government's case. 
+						analogize with the other perjured government witness cases
+					not too remote because government witness
+				neither cumulative nor merely impeaching
+					both corroborating and impeaching, which makes it neither merely corroborating nor merely impeaching
+						if the sole purpose of evidence is to impeach or if the sole purpose of evidene is corroborate it will be rejected. this testimony serves the dual purpose of corroborating Mr. Hark's testimony while simultaneously impeaching Agent Lopez's testimony to resolve the contested point in favor of whether or not Mr. Hark expressed reluctance. 
+				would probably result in an acquittal
+					establishes legal element of the claim raised (reluctance). United States v. Joelson, 7 F.3d 174 (9th Cir. 1993)
+					government would not have a case if Lopez's false testimony about Hark's refusal was excluded because acknowledging such reluctance would be sufficient to show Hark was not predisposed. cite for reluctance being most important prong
+					Sufficiently specific about time frame (3PM) and contents of conversation between Mr. Hark and Agent Lopez.
 
-				More than *merely* impeaching because refutes an essential element of the government's case. 
-
-				Similar evidence was presented at trial when Hark's own testimony, R. at ____, impeached Agent Lopez's testimony, R. at ____. However, this affidavit is neither merely corroborating Hark's testimony nor merely impeaching Agent Lopez's testimony. Instead, this affidavit refutes an essential element of the government's case -- namely the reluctance prong of the entrapment defense -- and implicates a key government witness in perjury. TODO: analogy. 
-
-				Would probably result in an acquittal because more than a merely collateral point.
 
 		Conclusion: Sophia Brooks' newly discovered affidavit ties the other two affidavits together by demonstrating that Agent Lopez went to such drastic lengths to coerce Hark because mere money failed to secure his cooperation.
 			Rule.
